@@ -21,14 +21,14 @@ Pierwszy raz wybieramy skanowanie pliku instalacyjnego przez program antywirusow
 
 7. Zasady bezpiecznego użytkownika.
 Alerty Kontroli konta użytkownika.
-Jeśli alert pojawia się gdy sami chcemy zainstalować nowy program, wybieramy <TAK>.
+Jeśli alert pojawia się gdy sami chcemy zainstalować nowy program, wybieramy 'TAK'.
 
-Jeśli alert pojawia się gdy uruchamiamy zainstalowany program, wybieramy <TAK>.
+Jeśli alert pojawia się gdy uruchamiamy zainstalowany program, wybieramy 'TAK'.
 
-W pozostałych przypadkach, zawsze w pierwszym odruchu wybieramy <NIE>, a następnie szukamy przyczyny, lub dzwonimy do bardziej doświadczonej osoby.
+W pozostałych przypadkach, zawsze w pierwszym odruchu wybieramy 'NIE', a następnie szukamy przyczyny, lub dzwonimy do bardziej doświadczonej osoby.
 
 Alerty SmartScreen
-Zawsze wybieramy <Nie uruchamiaj> i staramy się sprawdzić program online (jeśli się na tym znamy), lub dzwonimy do bardziej doświadczonej osoby. Zawsze możemy też wybrać program alternatywny, który jest uznany przez SmartScreen jako bezpieczny.
+Zawsze wybieramy 'Nie uruchamiaj' i staramy się sprawdzić program online (jeśli się na tym znamy), lub dzwonimy do bardziej doświadczonej osoby. Zawsze możemy też wybrać program alternatywny, który jest uznany przez SmartScreen jako bezpieczny.
  
 
 
