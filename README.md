@@ -24,5 +24,5 @@ Ważne jest również, aby używać bezpiecznej Przeglądarki Internetowej najle
 * Jeśli alert pojawia się gdy uruchamiamy zainstalowany, sprawdzony program, wybieramy 'TAK'. 
 * W pozostałych przypadkach, zawsze w pierwszym odruchu wybieramy 'NIE', a następnie szukamy przyczyny, lub dzwonimy do bardziej doświadczonej osoby. 
 
- Alerty SmartScreen 
+   Alerty SmartScreen 
 * Zawsze wybieramy 'Nie uruchamiaj' i staramy się sprawdzić program online (jeśli się na tym znamy), lub dzwonimy do bardziej doświadczonej osoby. Zawsze możemy też wybrać program alternatywny, który jest uznany, przez SmartScreen lub skaner drugiej opinii, jako bezpieczny. 
