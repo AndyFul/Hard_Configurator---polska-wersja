@@ -17,9 +17,8 @@ W Windows 8+ rolę skanera drugiej opinii może wykonywać SmartScreen (opcja 'R
 * Dokumenty, pliki medialne, zdjęcia, itp. otwieramy jak zwykle (lewy klik myszki lub klawisz Enter).
 * Pliki instalacyjne programów z katalogu 'Pobrane' lub innego katalogu użytkownika, uruchamiamy zawsze klikając prawy przycisk myszki, wybierając następnie z menu kontekstowego Eksploratora Windows opcję 'Run As SmartScreen' (Windows 8+).W starszych wersjach Windows (Windows Vista, Windows 7), musimy użyć menu kontekstowego Eksploratora Windows dwukrotnie.Pierwszy raz wybieramy skanowanie pliku instalacyjnego przez program antywirusowy, a drugi raz aby wybrać 'Uruchom jako administrator'.
 
-7. Zasady bezpiecznego użytkownika.
-
-Alerty Kontroli konta użytkownika.
+7. Zasady bezpiecznego użytkownika. 
+ Alerty Kontroli konta użytkownika.
 * Jeśli alert pojawia się gdy sami chcemy zainstalować nowy program, wybieramy 'TAK'.
 * Jeśli alert pojawia się gdy uruchamiamy zainstalowany program, wybieramy 'TAK'.
 * W pozostałych przypadkach, zawsze w pierwszym odruchu wybieramy 'NIE', a następnie szukamy przyczyny, lub dzwonimy do bardziej doświadczonej osoby.
