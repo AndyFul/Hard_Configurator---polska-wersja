@@ -2,7 +2,7 @@
 
 1. Hard_Configurator jest przeznaczony do pracy w wersjach: Windows Vista i nowszych. Wykorzystuje wbudowane w system Windows ograniczenia związane z uruchamianiem plików mogących zawierać kod wykonywalny (programy, skrypty, itp.). 
  
-2. Hard_Configurator nie pretenduje do miana samodzielnej ochrony komputera, jest uzupełnieniem standardowej ochrony antywirusowej. Minimalny sensowny zestaw powinien zawierać co najmniej skaner drugiej opinii (np. Hitman Pro). W Windows 8+ rolę skanera drugiej opinii może wykonywać SmartScreen (opcja 'Run As SmartScreen' w Hard_Configuratorze).  
+2. Hard_Configurator nie pretenduje do miana samodzielnej ochrony komputera, jest uzupełnieniem standardowej ochrony antywirusowej. Minimalny sensowny zestaw powinien zawierać co najmniej skaner drugiej opinii (np. Hitman Pro). W Windows 8+ rolę skanera drugiej opinii może pełnić SmartScreen (opcja 'Run As SmartScreen' w Hard_Configuratorze).  
 Ochrona oprogramowania komputera zwykle nie jest silniejsza niż sam system, więc ważne jest aby był on systematycznie aktualizowany, podobnie jak zainstalowane programy. 
 Ważne jest również, aby używać bezpiecznej Przeglądarki Internetowej najlepiej z piaskownicą (Edge, Google Chrome, itp.), oraz Edytora Tekstu z wyłączonymi makrami. 
 
