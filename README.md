@@ -19,6 +19,7 @@ Ważne jest również, aby używać bezpiecznej Przeglądarki Internetowej najle
 * Jeśli plik instalacyjny programu będziemy chcieli uruchomić w zwykły sposób (lewy klik myszki lub klawisz Enter) to zostanie on zablokowany. Dotyczy to również wielu innych plików z kodem wykonywalnym - lista blokowanych typów plików, może być skonfigurowana w Hard_Configuratorze - domyślnie blokowane są typy plików, które były często wykorzystywane przez twórców złośliwego oprogramowania. 
 
 7. Zasady bezpiecznego użytkownika.  
+
  Alerty Kontroli konta użytkownika. 
 * Jeśli alert pojawia się gdy sami chcemy zainstalować nowy program, wybieramy 'TAK'. 
 * Jeśli alert pojawia się gdy uruchamiamy zainstalowany, sprawdzony program, wybieramy 'TAK'. 
