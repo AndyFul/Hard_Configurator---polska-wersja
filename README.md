@@ -1,4 +1,4 @@
-#Hard_Configurator - Polskie pliki pomocy i polskie menu. Nie jest to pełna polska wersja bo niektóre komunikaty są po angielsku (wbudowane w kod programu). 
+#Hard_Configurator - polskie pliki pomocy i polskie menu. Nie jest to pełna polska wersja bo niektóre komunikaty są po angielsku (wbudowane w kod programu). 
 
 1. Hard_Configurator jest przeznaczony do pracy w wersjach: Windows Vista i nowszych. Wykorzystuje wbudowane w system Windows ograniczenia związane z uruchamianiem plików mogących zawierać kod wykonywalny (programy, skrypty, itp.). 
  
