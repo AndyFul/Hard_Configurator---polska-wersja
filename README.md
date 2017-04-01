@@ -20,7 +20,7 @@ Ważne jest również, aby używać bezpiecznej Przeglądarki Internetowej najle
 
 7. Zasady bezpiecznego użytkownika.  
 
- Alerty Kontroli konta użytkownika. 
+   Alerty Kontroli konta użytkownika. 
 * Jeśli alert pojawia się gdy sami chcemy zainstalować nowy program, wybieramy 'TAK'. 
 * Jeśli alert pojawia się gdy uruchamiamy zainstalowany, sprawdzony program, wybieramy 'TAK'. 
 * W pozostałych przypadkach, zawsze w pierwszym odruchu wybieramy 'NIE', a następnie szukamy przyczyny, lub dzwonimy do bardziej doświadczonej osoby. 
