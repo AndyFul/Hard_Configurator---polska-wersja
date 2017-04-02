@@ -27,3 +27,12 @@ Ważne jest również, aby używać bezpiecznej Przeglądarki Internetowej najle
 
    Alerty SmartScreen 
 * Zawsze wybieramy 'Nie uruchamiaj' i staramy się sprawdzić program online (jeśli się na tym znamy), lub dzwonimy do bardziej doświadczonej osoby. Zawsze możemy też wybrać program alternatywny, który jest uznany, przez SmartScreen lub skaner drugiej opinii, jako bezpieczny. 
+
+8. Ochrona Hard_Configuratora jest tym silniejsza im silniejszy (bardziej bezpieczny) jest system operacyjny. Najbardziej zyskują więc użytkownicy Windows 10, z różnych powodów:
+* Popularne programy antywirusowe/antimalware mają czasami problemy z kompatybilnością, zwłaszcza po większych aktualizacjach Windows 10. 
+* Windows Defender jest pełnoprawnym programem antywirusowym, począwszy od Windows 8. 
+* Windows 10 posiada niezłą i bardzo bezpieczną przeglądarkę Edge oraz sporo niezłych i bezpiecznych Uniwersalnych Aplikacji.
+* Systematycznie aktualizowany Windows 10, jest dosyć odporny na ataki wykorzystujące luki systemowe.
+
+Tak więc, w Windows 10 można zbudować bardzo silną ochronę nie używając programów zabezpieczających (działających w tle) innych firm.
+Hard_Configurator jest programem konfiguracyjnym, po dokonaniu konfiguracji można go zamknąć i jego procesy znikają z systemu. Całość ochrony przejmuje system Windows. Jedynie "Run As SmartScreen" jest na moment uruchamiany gdy użytkownik chce zainstalować nowy program.
