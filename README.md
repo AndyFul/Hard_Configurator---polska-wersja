@@ -1,10 +1,10 @@
 #Hard_Configurator - polskie pliki pomocy i polskie menu. Nie jest to pełna polska wersja bo niektóre komunikaty są po angielsku (wbudowane w kod programu). 
 
-W nowej wersji (Creators Update), Windows SmartScreen działa inaczej i odbija się to na opcji <Run As SmartScreen>. Forsowanie sprawdzania uruchamianych aplikacji przez SmartScreen w ustawieniu <Run As SmartScreen> = 'Administrator', nie działa. Co dziwne, działa w ustawieniu <Run As SmartScreen> = 'Standard User', a oba ustawienia różnią się tylko uprawnieniami.
+W nowej wersji (Creators Update), Windows SmartScreen działa inaczej i odbija się to na opcji /Run As SmartScreen>. Forsowanie sprawdzania uruchamianych aplikacji przez SmartScreen w ustawieniu /Run As SmartScreen> = 'Administrator', nie działa. Co dziwne, działa w ustawieniu /Run As SmartScreen/ = 'Standard User', a oba ustawienia różnią się tylko uprawnieniami.
 
 Na chwilę obecną rekomendowane (bezpieczne) ustawienia to: 
-<Run As SmartScreen> = 'Standard User'
-<Hide 'Run As Administrator> = 'OFF'
+/Run As SmartScreen> = 'Standard User'
+/Hide 'Run As Administrator> = 'OFF'
 
 W tych ustawieniach (przy aktywnych SRP), nowe pliki wykonywalne (np. pliki do zainstalowania) uruchamiamy z menu kontekstowego Eksploratora 2 razy :
 (1) 'Run By SmartScreen', wtedy plik zostaje zablokowany, ale przedtem jest sprawdzany przez SmartScreen.
