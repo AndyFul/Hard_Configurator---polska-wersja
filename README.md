@@ -19,6 +19,8 @@ W tych ustawieniach (przy aktywnych SRP), nowe pliki wykonywalne (np. pliki do z
 W punkcie (1) SmartScreen + SRP działają jak każdy inny skaner antimalware drugiej opinii. 
 
 
+INFORMACJE O PROGRAMIE
+
 1. Hard_Configurator jest przeznaczony do pracy w wersjach: Windows Vista i nowszych. Wykorzystuje wbudowane w system Windows ograniczenia związane z uruchamianiem plików mogących zawierać kod wykonywalny (programy, skrypty, itp.). 
  
 2. Hard_Configurator nie pretenduje do miana samodzielnej ochrony komputera, jest uzupełnieniem standardowej ochrony antywirusowej. Minimalny sensowny zestaw powinien zawierać co najmniej skaner drugiej opinii (np. Hitman Pro). W Windows 8+ rolę skanera drugiej opinii może pełnić SmartScreen (opcja 'Run As SmartScreen' w Hard_Configuratorze).  
