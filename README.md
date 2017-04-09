@@ -1,5 +1,18 @@
 #Hard_Configurator - polskie pliki pomocy i polskie menu. Nie jest to pełna polska wersja bo niektóre komunikaty są po angielsku (wbudowane w kod programu). 
 
+W nowej wersji (Creators Update), Windows SmartScreen działa inaczej i odbija się to na opcji <Run As SmartScreen>. Forsowanie sprawdzania uruchamianych aplikacji przez SmartScreen w ustawieniu <Run As SmartScreen> = 'Administrator', nie działa. Co dziwne, działa w ustawieniu <Run As SmartScreen> = 'Standard User', a oba ustawienia różnią się tylko uprawnieniami.
+
+Na chwilę obecną rekomendowane (bezpieczne) ustawienia to: 
+<Run As SmartScreen> = 'Standard User'
+<Hide 'Run As Administrator> = 'OFF'
+
+W tych ustawieniach (przy aktywnych SRP), nowe pliki wykonywalne (np. pliki do zainstalowania) uruchamiamy z menu kontekstowego Eksploratora 2 razy :
+(1) 'Run By SmartScreen', wtedy plik zostaje zablokowany, ale przedtem jest sprawdzany przez SmartScreen.
+(2) 'Uruchom jako administrator' plik jest uruchamiany z uprawnieniami Administratora (nie jest blokowany przez SRP).
+
+W punkcie (1) SmartScreen + SRP działają jak skaner antimalware drugiej opinii. 
+
+
 1. Hard_Configurator jest przeznaczony do pracy w wersjach: Windows Vista i nowszych. Wykorzystuje wbudowane w system Windows ograniczenia związane z uruchamianiem plików mogących zawierać kod wykonywalny (programy, skrypty, itp.). 
  
 2. Hard_Configurator nie pretenduje do miana samodzielnej ochrony komputera, jest uzupełnieniem standardowej ochrony antywirusowej. Minimalny sensowny zestaw powinien zawierać co najmniej skaner drugiej opinii (np. Hitman Pro). W Windows 8+ rolę skanera drugiej opinii może pełnić SmartScreen (opcja 'Run As SmartScreen' w Hard_Configuratorze).  
