@@ -2,7 +2,7 @@
 
 Ważne uwagi dotyczące Windows 10 Creators Update.
 
-W tej wersji, Windows SmartScreen działa inaczej w porównaniu do wersji poprzednich i odbija się to na opcji /Run As SmartScreen>. Forsowanie sprawdzania uruchamianych aplikacji przez SmartScreen w ustawieniu /Run As SmartScreen> = 'Administrator', nie działa. Co dziwne, działa w ustawieniu /Run As SmartScreen/ = 'Standard User', a oba ustawienia różnią się tylko uprawnieniami.
+W tej wersji, Windows SmartScreen działa inaczej w porównaniu do wersji poprzednich i odbija się to na opcji /Run As SmartScreen>. Forsowanie sprawdzania uruchamianych aplikacji przez SmartScreen w ustawieniu /Run As SmartScreen> = 'Administrator', nie działa. Co dziwne, działa w ustawieniu /Run As SmartScreen> = 'Standard User', a oba ustawienia różnią się tylko uprawnieniami.
 
 Na chwilę obecną rekomendowane (bezpieczne) ustawienia to: 
 /Run As SmartScreen> = 'Standard User'
