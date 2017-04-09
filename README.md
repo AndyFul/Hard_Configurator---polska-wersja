@@ -5,11 +5,15 @@ Ważne uwagi dotyczące Windows 10 Creators Update.
 W tej wersji, Windows SmartScreen działa inaczej w porównaniu do wersji poprzednich i odbija się to na opcji /Run As SmartScreen>. Forsowanie sprawdzania uruchamianych aplikacji przez SmartScreen w ustawieniu /Run As SmartScreen> = 'Administrator', nie działa. Co dziwne, działa w ustawieniu /Run As SmartScreen> = 'Standard User', a oba ustawienia różnią się tylko uprawnieniami.
 
 Na chwilę obecną rekomendowane (bezpieczne) ustawienia to: 
+
 /Run As SmartScreen> = 'Standard User'
+
 /Hide 'Run As Administrator> = 'OFF'
 
 W tych ustawieniach (przy aktywnych SRP), nowe pliki wykonywalne (np. pliki do zainstalowania) uruchamiamy z menu kontekstowego Eksploratora 2 razy :
+
 (1) 'Run By SmartScreen', wtedy plik zostaje zablokowany przez SRP, ale przedtem jest sprawdzany przez SmartScreen.
+
 (2) 'Uruchom jako administrator' plik jest uruchamiany z uprawnieniami Administratora (nie jest blokowany przez SRP).
 
 W punkcie (1) SmartScreen + SRP działają jak każdy inny skaner antimalware drugiej opinii. 
