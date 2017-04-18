@@ -1,0 +1,12 @@
+Wersja 2.2.0.0
+1. Opcja <Run As SmartScreen> = 'Administrator' zosta³a dostosowana do najnowszej wersji Windows 10 (Creators Update).
+2. Do wersji polskiej do³¹czona zosta³a instrukcja z najnowszej wersji angielskojêzycznej (ma ona wiêcej opcji).
+
+Wersja 2.1.0.0
+1. Plik instalacyjny Hard_Configurator'a korzysta z instalatora InnoSetup.
+2. Dla wersji Windows Vista, pocz¹tkowy Punkt Przywracania Systemu trzeba wykonaæ manualnie.
+3. Ulepszona funkcja 'Pobierz Ustawienia'.
+5. Uaktualniony plik instrukcji Hard_Configuratora (nadal tylko po angielsku).
+4. Dodana opcja <Dokumentacja> do przegl¹dania instrukcji i innych dokumentów bezpoœrednio z menu Hard_Configuratora.
+5. Wersja z polskim menu i polskimi plikami pomocy.
+
